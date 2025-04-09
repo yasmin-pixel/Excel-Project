@@ -10,6 +10,8 @@ This project serves as a portfolio piece to demonstrate skills in data cleaning,
 The dashboard summarizes the most impactful insights drawn from the dataset.
 
 **Coffee Orders Dashboard**
+![image](https://github.com/user-attachments/assets/d145b25a-3330-47d6-a1ef-2878909a17a5)
+
 
 **Source**: Internal café transaction data (uploaded via `coffeeOrdersData.xlsx`)
 
